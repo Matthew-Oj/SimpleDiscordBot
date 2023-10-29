@@ -8,6 +8,7 @@
   - [Usage](#Usage)
   - [Visuals](#visuals)
   - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
 
 
 ## Introduction
@@ -34,6 +35,8 @@ Python (version 3.10 or above)
 Required Python packages (see requirements.txt file)
 
 Also check out the discord developer portal https://discord.com/developers/docs/intro 
+
+## Installation 
 Run install: 
 ```bash
 pip install discord
